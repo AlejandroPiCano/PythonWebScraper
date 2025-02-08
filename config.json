@@ -1,0 +1,15 @@
+{
+    "webdriver_path": "C:\\WebDriver\\chromedriver.exe",
+    "input_file": "data/input.xlsx",
+    "output_file": "data/output.xlsx",
+    "output_sheet_name": "Resultados",
+    "columns": [
+        "Nombre",
+        "Teléfono",
+        "Dirección",
+        "Enlace"
+    ],
+    "scraping": {
+        "wait_time": 15
+    }
+}
